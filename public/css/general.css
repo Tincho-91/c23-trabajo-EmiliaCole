@@ -1,0 +1,18 @@
+h1{font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+nav{
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    text-decoration:none;
+}
+
+a{text-decoration: none;}
+
+li{margin: 15px 0}
+
+.enlinea{display:inline;}
+
+.fa-brands{color: black;}
