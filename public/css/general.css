@@ -16,3 +16,7 @@ li{margin: 15px 0}
 .enlinea{display:inline;}
 
 .fa-brands{color: black;}
+
+#menú-en-derecha{
+    text-align: right;
+}

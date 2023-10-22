@@ -1,0 +1,21 @@
+#texto-color-verde{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+    }
+
+#body-about{background-image:url("/img/emilia-about.jpg");
+    background-repeat: no-repeat;
+    background-position: right 10px top 10px;
+}
+
+
+#menú-about{background-color: rgba(255, 255, 255, 0.5);
+padding-bottom: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+font-size: 20px;
+}
+
+#about-emilia{font-size: 80px;}
+
