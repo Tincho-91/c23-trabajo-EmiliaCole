@@ -1,6 +1,20 @@
 #menú-music{background-color: rgba(255, 255, 255, 0.5);
-    padding-bottom: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 20px;
     }
+
+    #logos-music{font-size: 20px;}
+
+    #direct-links{padding: 1px;}
+
+    #titulos{font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 20px;}
+
+   #body-music{background-image:url("/img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+   background-size: 2000px 230px;
+   h3{font-family:'Raleway', sans-serif;
+    font-weight: bold ;}
+}
